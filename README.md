@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/WeedKillerRefill. This repo is archived and read-only; full history was preserved there.
+
 # WeedKillerRefill
 
 Refill an empty weed killer can without a trip back to the ship store.
